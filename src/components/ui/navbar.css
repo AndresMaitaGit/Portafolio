@@ -1,0 +1,32 @@
+.navbar {
+ background-color: black;
+
+}
+
+.about_btn, .about_btn:hover, .about_btn:focus{
+    background-color: #2abb9b;
+    border:none;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px 0;
+    width: 120px;
+    box-shadow: none;
+    outline: none;
+}
+
+
+.projects_btn, .projects_btn:hover, .projects_btn:focus{
+
+    background-color: #fff;
+    border:none;
+    border-radius: 20px;
+    color: black;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px 0;
+    width: 120px;
+    box-shadow: none;
+    outline: none;
+}

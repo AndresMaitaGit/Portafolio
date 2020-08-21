@@ -1,0 +1,6 @@
+.btn_search, .btn_search:focus {
+    background: none;
+    outline: none;
+    box-shadow: none;
+    border: none;
+}

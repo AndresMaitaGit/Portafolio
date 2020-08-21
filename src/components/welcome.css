@@ -1,0 +1,17 @@
+.welcome {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.welcome h1 {
+    font-size: 60px;
+    
+}
+
+.welcome h1 :hover {
+    color: #2abb9b;
+    cursor:pointer;
+}
+.welcome h1 span  {
+    color: white;
+}
